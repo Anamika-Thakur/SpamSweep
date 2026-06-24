@@ -62,16 +62,3 @@ Make sure you have all the requiremnets. Install locally with:
 pip install -r requirements.txt
 ```
 
----
-
-##  Author
-
-**Aparna Parashar**
- GitHub: [@aparnaparashar](https://github.com/aparnaparashar)
-
-
-## License
-
-© 2025 Aparna Parashar. All rights reserved.
-This project is licensed for educational use only. Commercial reuse is not permitted without written permission.
-
